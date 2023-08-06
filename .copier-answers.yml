@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: v4.0.5
+_commit: v4.1.0
 _src_path: https://github.com/jupyterlab/extension-template
 author_email: jonatasgomesb@gmail.com
 author_name: Jônatas Gomes Barbosa da Silva
@@ -10,5 +10,5 @@ labextension_name: teaching
 project_short_description: A JupyterLab extension.
 python_name: teaching
 repository: https://github.com/jonatas1n/jupyter-teaching
-test: true
+test: false
 
